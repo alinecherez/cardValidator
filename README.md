@@ -3,7 +3,7 @@ Esta biblioteca se destina à verificação da sequência de números de cartõe
 Na versão atual, através do Algoritmo de Luhn é capaz de validar os números de um cartão de crédito, evitando erros de digitação.
 
 ## Como instalar:
-$  npm install cardvalidatorac
+$  npm install cardvalidator-acmc
 
 ## Como utilizar:
 > const cardValidator = require('../lib/index');
