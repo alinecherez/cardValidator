@@ -7,9 +7,11 @@ $  npm install cardvalidatorac
 
 ## Como utilizar:
 > const cardValidator = require('../lib/index');
+>
 > console.log(cardValidator(4716421870804403))
+>
 > // returns "true"
 
-##versão 1.0.0 (released)
+## versão 1.0.0 (released)
 * funcionalidade: validação da sequência de números de um cartão de crédito.
 * aceita somente cartões de 16 dígitos.
