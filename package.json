@@ -1,0 +1,19 @@
+{
+  "name": "cardvalidator",
+  "version": "1.0.0",
+  "description": "Biblioteca destinada a validação de cartões de crédito.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "Aline Cherez",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.0.0"
+  }
+}
