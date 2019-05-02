@@ -6,11 +6,19 @@
   "scripts": {
     "test": "nyc mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alinecherez/cardValidator"
+  },
   "author": "Aline Cherez",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.16.0"
   },
+  "bugs": {
+    "url": "https://github.com/alinecherez/cardValidator/issues"
+  },
+  "homepage": "https://github.com/alinecherez/cardValidator#readme",
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.1.4",
