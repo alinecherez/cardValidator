@@ -6,10 +6,10 @@ Na versão atual, através do Algoritmo de Luhn é capaz de validar os números 
 $  npm install cardvalidator-acmc
 
 ## Como utilizar:
-> const cardValidator = require('../lib/index');
->
-> console.log(cardValidator(4716421870804403))
->
+
+javascript
+> const cardValidator = require('cardvalidator-acmc');
+> console.log(cardValidator(4716421870804403))>
 > // returns "true"
 
 ## versão 1.0.0 (released)
