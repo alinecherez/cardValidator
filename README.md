@@ -15,7 +15,7 @@ $  npm install cardvalidator-acmc
 ```node
 
 > const cardValidator = require('cardvalidator-acmc');
-> console.log(cardValidator('4716421870804403'))>
+> console.log(cardValidator('4716421870804403'))
 > // returns "dez"
 
 ```
