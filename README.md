@@ -1,4 +1,4 @@
-# Validador de cartões de crédito v.1.0.1
+# Validador de cartões de crédito v.1.0.2
 Esta biblioteca se destina à verificação da sequência de números de cartões de crédito para uso em aplicações web.
 Na versão atual, através do Algoritmo de Luhn é capaz de validar os números de um cartão de crédito, evitando erros de digitação.
 

@@ -1,6 +1,6 @@
 {
   "name": "cardvalidator-acmc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Biblioteca destinada a validação de cartões de crédito.",
   "main": "./lib/index.js",
   "scripts": {
